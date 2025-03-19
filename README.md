@@ -152,12 +152,12 @@ dependencies {
 
 <table>
   <tr>
-    <td><img src="screenshots/home_screen.png" width="250"></td>
+    <td><img src="screenshots/home.png" width="250"></td>
     <td><img src="screenshots/product.png" width="250"></td>
   </tr>
   <tr>
-    <td align="center"><b> News List Screen</b></td>
-    <td align="center"><b>News Detail Screen</b></td>
+    <td align="center"><b> Home Screen</b></td>
+    <td align="center"><b> Product Screen</b></td>
   </tr>
 </table>
 
